@@ -1,0 +1,23 @@
+{
+    "rock": {
+    "name": "Supercombo",
+    "album": "Amianto",
+    "style": "Rock",
+    "price": "R$ 150,90",
+    "image": "<img src='img/supercombo.jpg' width='100px'>"
+},
+    "rock2": {
+    "name": "Arctic Monkeys",
+    "album": "AM",
+    "style": "Rock",
+    "price": "R$ 105,99",
+    "image": "<img src='img/articalbum.jpg' width='100px'>"
+},
+    "rock3": {
+    "name": "The Neighbourhood",
+    "album": "Wiped Out!",
+    "style": "Rock",
+    "price": "R$ 777,99",
+    "image": "<img src='img/wipedout.jpg' width='100px'>"
+}
+}
